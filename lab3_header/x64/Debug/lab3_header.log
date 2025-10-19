@@ -1,0 +1,6 @@
+﻿  lab3_header.cpp
+C:\Users\Sergey\source\repos\lab3_header\lab3_header.cpp(12,6): warning C4273: GetConsoleWindow: несовместимое связывание dll
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi3.h(177,1):
+  см. предыдущее определение "GetConsoleWindow"
+  
+  lab3_header.vcxproj -> C:\Users\Sergey\source\repos\lab3_header\x64\Debug\lab3_header.exe
